@@ -1,2 +1,1 @@
 # Praktikum_Yandex_Analitic_Data
-Портфолио
